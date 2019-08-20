@@ -8,12 +8,12 @@ Results
 Licensing, Authors, and Acknowledgements
 
 # Installation:
-python 3.6
-matplotlib
-numpy
-scikit-learn
-keras
-tqdm
+python 3.6,
+matplotlib,
+numpy,
+scikit-learn,
+keras,
+tqdm,
 ImageFile
 
 # Project Overview:
