@@ -37,7 +37,7 @@ images: a few images to test the model manually
 The accuracy obtained was nearly 84% using CNN with transfer learning. Among the different bottleneck features, Xception performed best. This result is quite impressive as compared to CNN from scratch with accuracy with 6%.
 For any other image uploaded, an estimate of the most resembling dog breed will be given and if neither is detected in the image, it provides error output.
 
-Project files can be found in this github repo: https://github.com/swang13/dog-breeds-classification
+Project files can be found in this github repo: https://github.com/KirtirDas/Capstone-Project--Dog-Breed-using-CNN-Model/blob/master/README.md
 Further briefing can be found in this blog: https://medium.com/@das.kirtirjasaswini/dog-breed-classifier-using-cnn-model-data-science-capstone-project-8207a43321eb
 
 # Licensing, Authors, Acknowledgements
